@@ -1,6 +1,6 @@
-# H1 Password generator
+# Password generator
 
-# H3 This is a basic password generator app.
+### This is a basic password generator app.
 
 Passwords generated through this app will include the criteria below:
 
