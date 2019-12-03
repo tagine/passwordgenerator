@@ -34,32 +34,32 @@ if (specialChar === true) {
         retVal += lowCaseList.charAt(Math.floor(Math.random() * n));
         console.log(retVal)
 
-    }
-}
+    } 
+
 else if (var i = 0, n = capCaseList.length; i < passlength; ++i) {
-    retVal += capCaseList.charAt(Math.floor(Math.random() * n));
-    console.log(retVal)
+        retVal += capCaseList.charAt(Math.floor(Math.random() * n));
+        console.log(retVal)
 
     }
 
+
+    // else if (var i = 0, n = numList.length; i < passlength; ++i) {
+    //     retVal += numList.charAt(Math.floor(Math.random() * n));
+    //     console.log(retVal)
+
+    //     }
+
+
+    // else if (var i = 0, n = specialList.length; i < passlength; ++i) {
+    //     retVal += specialList.charAt(Math.floor(Math.random() * n));
+    //     console.log(retVal)
+
+    //     }
+
 }
-else if (var i = 0, n = numList.length; i < passlength; ++i) {
-    retVal += numList.charAt(Math.floor(Math.random() * n));
-    console.log(retVal)
-
-    }
-
-}
-else if (var i = 0, n = specialList.length; i < passlength; ++i) {
-    retVal += specialList.charAt(Math.floor(Math.random() * n));
-    console.log(retVal)
-
-    }
-}
-
 //PRINT PASSWORD//
 
-document.getElementsByTagName("textarea").innerHTML = password"
+document.getElementsByTagName("textarea").innerHTML = "password"
 
 
 
