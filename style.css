@@ -8,5 +8,10 @@ header {
 
 h1 {
     color: #FAFBFD;
-    
+
+}
+
+textarea {
+
+    border-style: dotted;
 }
