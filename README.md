@@ -22,4 +22,4 @@ Passwords generated through this app will include the criteria below:
 
 ## Screenshot of program interface:
 
-![screenshot of program](image.jpg)
+![screenshot of program](demo.png)
