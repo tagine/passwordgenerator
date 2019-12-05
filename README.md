@@ -20,4 +20,4 @@ Passwords generated through this app will include the criteria below:
 
 - Copy value to clipboard
 
-- Add screenshot image to MD file
+- Add screenshot image to ReadMe file
