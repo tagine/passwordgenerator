@@ -20,4 +20,6 @@ Passwords generated through this app will include the criteria below:
 
 - Copy value to clipboard
 
-- Add screenshot image to ReadMe file
+## Screenshot of program interface:
+
+![screenshot of program](image.jpg)
