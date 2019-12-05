@@ -7,10 +7,22 @@ var numList = "0123456789";
 var specialList = "#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
 var passlength = prompt("enter length of password (8-126)");
 
+//REQUIREMENT PROMPTS//
+
 var lowCaseChar = confirm("Would you like to include a lower case letter in your password?")
 var capCaseChar = confirm("Would you like to include a capital case letter in your password?")
 var numChar = confirm("Would you like to include a number in your password?")
 var specialChar = confirm("Would you like to include a special character in your password?")
+
+//REQUIREMENT CONFIRMATION CHECK//
+
+console.log(passlength);
+console.log(lowCaseChar);
+console.log(capCaseChar);
+console.log(numChar);
+console.log(specialChar);
+
+
 
 // var passwordCombo = lowCaseList + capCaseList + numList + specialList
 
@@ -32,13 +44,11 @@ var specialChar = confirm("Would you like to include a special character in your
 // number = number + 3;
 // number = number + 4;
 
-// console.log(passlength);
-
-var retVal = "";
 
 
+//var retVal = "";
 
-// console.log(specialChar);
+
 
 // if (lowCaseList && capCaseList && numChar && specialChar) {
 
@@ -47,10 +57,10 @@ var retVal = "";
 
 // GENERATOR //
 
-if (specialChar i = 0; n == specialList.length; i < passlength; ++i) {
-      retVal += specialList.charAt(Math.floor(Math.random() * n));
-       console.log(retVal)
-}
+//if (specialChar i = 0; n == specialList.length; i < passlength; ++i) {
+//      retVal += specialList.charAt(Math.floor(Math.random() * n));
+//      console.log(retVal)
+//}
 
 // if (specialChar === true) {
 //     console.log("in specialchar")
