@@ -19,3 +19,5 @@ Passwords generated through this app will include the criteria below:
 ## Tasks:
 
 - Copy value to clipboard
+
+- Add screenshot image to MD file
