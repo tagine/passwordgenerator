@@ -73,19 +73,15 @@ function generatePassword(event){
 
     }
 
+    //PRINT PASSWORD//
+
     document.getElementById("passwordDisplay").value = retValCombo;
 }
-//PRINT PASSWORD//
-
-
 
 
 //GENERATE PASSWORD //
 
 document.getElementById("generate").addEventListener("click", generatePassword);
-
-// function generatePassword(event){
-//     location.reload};
 
 //COPY VALUE//
 
